@@ -32,3 +32,8 @@ runs:
   main: 'dist/setup/index.js'
   post: 'dist/cache-save/index.js'
   post-if: success()
+- 名称：设置奥丁
+
+
+              
+  使用：laytan/setup-odin@v1.1.1
